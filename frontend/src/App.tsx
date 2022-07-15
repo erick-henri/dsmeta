@@ -1,6 +1,6 @@
-import Header from "./Components/Header/Index"
-import NotificationButton from "./Components/NotificationButton/Index"
-import SalesCard from "./Components/SalesCard/Index"
+import Header from "./Components/Header/Index";
+import NotificationButton from "./Components/NotificationButton/Index";
+import SalesCard from "./Components/SalesCard/Index";
 
 function App() {
     return (

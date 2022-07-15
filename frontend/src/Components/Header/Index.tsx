@@ -1,5 +1,5 @@
-import './Styles.css'
-import Logo from '../../assets/Img/Logo.svg'
+import './Styles.css';
+import Logo from '../../assets/Img/Logo.svg';
 function Header() {
     return (
         <header>
